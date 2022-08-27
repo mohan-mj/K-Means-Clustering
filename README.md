@@ -1,5 +1,7 @@
 # K-Means-Clustering
 
+ppt can be downloaded from [here](https://www.slideshare.net/JidhuMohanM/kmeans-clustering-252722738)
+
 **Centroid-based Clustering**
 
 Centroid-based clustering organizes the data into non-hierarchical clusters, in contrast to hierarchical clustering defined below. k-means is the most widely-used centroid-based clustering algorithm. Centroid-based algorithms are efficient but sensitive to initial conditions and outliers. This course focuses on k-means because it is an efficient, effective, and simple clustering algorithm.
