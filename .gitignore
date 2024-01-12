@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+*.DS_Store
+/ref
+datasets/kddcup.data_10_percent_corrected
+datasets/kddcup.data.corrected
